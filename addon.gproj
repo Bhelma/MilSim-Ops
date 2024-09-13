@@ -1,8 +1,0 @@
-GameProject {
- ID "MilSimModernWarfare"
- GUID "62230B497B31D772"
- TITLE "MilSim Modern Warfare"
- Dependencies {
-  "58D0FB3206B6F859" "61DACC848B8E8066" "625334C616FBC410"
- }
-}
