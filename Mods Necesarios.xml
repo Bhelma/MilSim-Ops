@@ -1,8 +1,3 @@
-      			{
-		"modId": "6205057780A7607A",
-		"name": "Objective Rally Point",
-		"version": "1.0.14"
-	},
 	{
 		"modId": "595F2BF2F44836FB",
 		"name": "RHS - Status Quo",
@@ -11,7 +6,7 @@
 	{
 		"modId": "625334C616FBC410",
 		"name": "MilSimAddon",
-		"version": "1.0.8"
+		"version": "1.0.25"
 	},
 	{
 		"modId": "60C4C12DAE90727B",
@@ -22,6 +17,11 @@
 		"modId": "5E389BB9F58B79A6",
 		"name": "SpaceCore",
 		"version": "1.2.15"
+	},
+	{
+		"modId": "596CB4A0AE84C08E",
+		"name": "Worthy Islands",
+		"version": "0.8.85"
 	},
 	{
 		"modId": "5EB744C5F42E0800",
@@ -39,9 +39,9 @@
 		"version": "1.2.7"
 	},
 	{
-		"modId": "61DACC848B8E8066",
-		"name": "MilOps Modern Warfare Addon",
-		"version": "1.0.205"
+		"modId": "59EAA899751805DF",
+		"name": "Stun Grenade",
+		"version": "1.0.18"
 	},
 	{
 		"modId": "5AAF6D5352E5FCAB",
@@ -54,24 +54,19 @@
 		"version": "1.1.13"
 	},
 	{
+		"modId": "5CA6BA2F63DE1174",
+		"name": "M17 Pistol",
+		"version": "1.0.15"
+	},
+	{
 		"modId": "61FE76120DC51DC3",
 		"name": "Modern Optics Pack",
 		"version": "1.0.12"
 	},
 	{
-		"modId": "62230B497B31D772",
-		"name": "MilSim Modern Warfare",
-		"version": "1.0.21"
-	},
-	{
 		"modId": "606C369BAC3F6CC3",
 		"name": "ACE Finger",
 		"version": "1.1.0"
-	},
-	{
-		"modId": "5D550926D43F1409",
-		"name": "Tactical Flava",
-		"version": "0.1.51"
 	},
 	{
 		"modId": "611CB1D409001EB0",
@@ -86,17 +81,12 @@
 	{
 		"modId": "62021EB6163A2698",
 		"name": "NGSW",
-		"version": "1.0.14"
+		"version": "1.0.15"
 	},
 	{
-		"modId": "6210BCE5CDC3132F",
-		"name": "JLTV-Fix",
-		"version": "1.0.1"
-	},
-	{
-		"modId": "5E193315C8E82019",
-		"name": "M2 Bradley Fighting Vehicle",
-		"version": "1.0.7"
+		"modId": "62870D9D753B715B",
+		"name": "Insurgencia Ops",
+		"version": "1.0.22"
 	},
 	{
 		"modId": "5B3ED33ADA805340",
@@ -111,12 +101,12 @@
 	{
 		"modId": "606B100247F5C709",
 		"name": "Bacon Loadout Editor",
-		"version": "1.2.8"
+		"version": "1.2.14"
 	},
 	{
 		"modId": "5C9AD9EF76F6B5EA",
 		"name": "ZU-23",
-		"version": "1.2.3"
+		"version": "1.2.4"
 	},
 	{
 		"modId": "5EE135CE07217857",
@@ -129,14 +119,9 @@
 		"version": "1.0.1"
 	},
 	{
-		"modId": "5CCCC1DFB9C93581",
-		"name": "AH-64D Apache",
-		"version": "1.1.1"
-	},
-	{
-		"modId": "61D702195F9E12C1",
-		"name": "M2 Bradley - Revival Edit",
-		"version": "1.0.6"
+		"modId": "5AF6E0F075D79473",
+		"name": "M249 Scope Rails",
+		"version": "1.0.10"
 	},
 	{
 		"modId": "60729BD13FB6FC3C",
@@ -149,9 +134,9 @@
 		"version": "1.1.26"
 	},
 	{
-		"modId": "5994AD5A9F33BE57",
-		"name": "Game Master FX",
-		"version": "1.0.92"
+		"modId": "62593E440F3FF363",
+		"name": "Darkgru Boats",
+		"version": "1.0.18"
 	},
 	{
 		"modId": "5F340B3613F49010",
@@ -174,6 +159,16 @@
 		"version": "1.1.0"
 	},
 	{
+		"modId": "6148039B7313C031",
+		"name": "WCS_Core",
+		"version": "2.0.161"
+	},
+	{
+		"modId": "5C9758250C8C56F1",
+		"name": "Bon Action Animations",
+		"version": "0.0.33"
+	},
+	{
 		"modId": "60C53A9372ED3964",
 		"name": "ACE Compass",
 		"version": "1.1.0"
@@ -184,29 +179,14 @@
 		"version": "1.1.2"
 	},
 	{
-		"modId": "622A2BA6FB8252D9",
-		"name": "Apache Reborn",
-		"version": "1.1.13"
+		"modId": "620D239ED2B0BFAC",
+		"name": "Gs Vehicle Periscopes",
+		"version": "1.0.0"
 	},
 	{
 		"modId": "6206B217863C90CC",
 		"name": "A2 PARCHE",
-		"version": "1.0.12"
-	},
-	{
-		"modId": "612F4C04CFF9B1C4",
-		"name": "BradleyFix",
-		"version": "1.0.35"
-	},
-	{
-		"modId": "5F1EE615E7AE3106",
-		"name": "BGONE",
-		"version": "1.1.25"
-	},
-	{
-		"modId": "60ED3CC6E7E40221",
-		"name": "Sikorsky MH60 DAP Project",
-		"version": "0.5.62"
+		"version": "1.0.13"
 	},
 	{
 		"modId": "5C73156675E11A0F",
@@ -214,9 +194,19 @@
 		"version": "1.0.18"
 	},
 	{
+		"modId": "5ECF28EE5B3F8B49",
+		"name": "raidioAmilsimesp",
+		"version": "1.0.13"
+	},
+	{
 		"modId": "5AB301290317994A",
 		"name": "Suppressors",
 		"version": "1.2.2"
+	},
+	{
+		"modId": "5D3CCC039449D1C8",
+		"name": "DiscordPlayerList",
+		"version": "1.0.11"
 	},
 	{
 		"modId": "5ABD0CB57F7E9EB1",
@@ -229,11 +219,6 @@
 		"version": "1.0.2"
 	},
 	{
-		"modId": "613312B5CA29D113",
-		"name": "T-72A Fix",
-		"version": "1.0.4"
-	},
-	{
 		"modId": "61D2DA83D579C390",
 		"name": "TEMPOARYBMP3",
 		"version": "1.0.5"
@@ -244,17 +229,12 @@
 		"version": "1.0.4"
 	},
 	{
-		"modId": "5964E0B3BB7410CE",
-		"name": "Game Master Enhanced",
-		"version": "1.2.2"
-	},
-	{
-		"modId": "61E2F564B4A805F4",
-		"name": "STRYKER 1.2 Fix",
-		"version": "1.0.2"
-	},
-	{
 		"modId": "606D03292879EF5B",
 		"name": "Scenario Reload Menu",
-		"version": "1.0.11"
+		"version": "1.0.15"
+	},
+	{
+		"modId": "629B2BA37EFFD577",
+		"name": "WCS_Armament",
+		"version": "1.0.48"
 	}
